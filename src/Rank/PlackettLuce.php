@@ -4,9 +4,9 @@ declare(strict_types=1);
 namespace SEOVendor\Evaluator\Rank;
 
 /**
- * Plackett–Luce model via MM updates (Hunter, 2004) for full/partial top-N lists.
- * Input: array of lists, each list is an ordered array of brand strings (best to worst).
- * Returns: worth scores w_i normalized to sum=1.
+ * Plackett–Luce with MM updates + weak additive prior (alpha) for stability.
+ * Input: $lists = [ ['A','B','C'], ['B','A','C'], ... ] ordered best→worst.
+ * Returns normalized worths summing to 1.
  */
 class PlackettLuce
 {
@@ -14,71 +14,68 @@ class PlackettLuce
      * @param array<int,array<int,string>> $lists
      * @param int $maxIter
      * @param float $eps
+     * @param float $alpha  Additive smoothing on both numerator and denominator
+     *                      to avoid collapse with tiny data (default 0.1).
      * @return array<string,float>
      */
-    public function fit(array $lists, int $maxIter = 200, float $eps = 1e-6): array
+    public function fit(array $lists, int $maxIter = 200, float $eps = 1e-6, float $alpha = 0.1): array
     {
-        // Collect universe of items and appearance counts n_i
+        // Universe + appearance counts (n_i = number of times i appears across lists)
         $items = [];
-        $n_i = []; // appearances
+        $n_i = [];
         foreach ($lists as $L) {
-            $seen = [];
             foreach ($L as $b) {
                 $items[$b] = true;
-                if (!isset($seen[$b])) {
-                    $n_i[$b] = ($n_i[$b] ?? 0) + 1;
-                    $seen[$b] = true;
-                }
+                $n_i[$b]   = ($n_i[$b] ?? 0) + 1;
             }
         }
         $brands = array_keys($items);
-        if (empty($brands)) { return []; }
+        if (empty($brands)) return [];
 
+        // Initialize uniformly
         $w = array_fill_keys($brands, 1.0 / count($brands));
 
         for ($iter = 0; $iter < $maxIter; $iter++) {
-            // Compute B_i = sum over lists and stages where i is in remaining set S_{lr} of 1 / sum_{j in S_{lr}} w_j
+            // B_i accumulation
             $B = array_fill_keys($brands, 0.0);
 
             foreach ($lists as $L) {
-                // Remaining set S starts as the whole list (remove chosen items as we descend positions)
-                $S = $L;
+                $S = $L;                 // remaining set
                 $m = count($S);
                 for ($r = 0; $r < $m; $r++) {
-                    // Denominator over remaining items
+                    // denominator over remaining items
                     $den = 0.0;
                     foreach ($S as $j) { $den += $w[$j]; }
                     if ($den <= 0.0) { $den = 1e-12; }
 
-                    // Every item currently in S contributes 1/den to its B_i
-                    foreach ($S as $j) { $B[$j] += 1.0 / $den; }
+                    // each item currently in S contributes 1/den
+                    $inv = 1.0 / $den;
+                    foreach ($S as $j) { $B[$j] += $inv; }
 
-                    // Remove the selected winner at this position (top of S)
-                    array_shift($S); // move to next stage
+                    // remove the winner at this position (top of S)
+                    array_shift($S);
                 }
             }
 
-            // MM update: w_i <- n_i / B_i
+            // MM update with smoothing
             $wNew = $w;
             foreach ($brands as $i) {
-                $num = (float)($n_i[$i] ?? 0.0);
-                $den = max($B[$i], 1e-12);
+                $num = ($n_i[$i] ?? 0.0) + $alpha;
+                $den = max($B[$i] + $alpha, 1e-12);
                 $wNew[$i] = $num / $den;
             }
 
-            // Normalize
+            // normalize
             $sum = array_sum($wNew);
             if ($sum > 0.0) {
                 foreach ($wNew as $k => $v) { $wNew[$k] = $v / $sum; }
             }
 
-            // Convergence
+            // convergence
             $delta = 0.0;
-            foreach ($brands as $b) {
-                $delta = max($delta, abs($wNew[$b] - $w[$b]));
-            }
+            foreach ($brands as $b) { $delta = max($delta, abs($wNew[$b] - $w[$b])); }
             $w = $wNew;
-            if ($delta < $eps) { break; }
+            if ($delta < $eps) break;
         }
 
         arsort($w);

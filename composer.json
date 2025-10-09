@@ -1,6 +1,6 @@
 {
-  "name": "seovendor/method2-evaluator",
-  "description": "Entity-conditioned probing with resampling (PHP, SEOB-compatible)",
+  "name": "seovendor/ranklens-entity-evaluator",
+  "description": "Entity-conditioned probing with resampling (PHP)",
   "type": "project",
   "require": {
     "php": "^7.4",

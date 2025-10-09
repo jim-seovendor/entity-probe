@@ -3,6 +3,13 @@
 
 - **PHP**: PHP 7, no jQuery required. CLI only.
 - **Libraries**: guzzlehttp/guzzle, opis/json-schema, league/csv, math-php.
+- **Data**: Final aggregation product (PL scores, frequency metrics, CIs) from over 15,000 GPT-5 prompts (No Cache)
+
+## Executive Summary
+- **Goal.** Compare **PL scores (α=0.2, BT=300)** with **frequency baselines** (@1/@3) to surface category leaders and quality–popularity gaps.
+- **Coverage.** 52 categories; global + per-locale (US/GB/DE/JP).
+- **Sensitivity.** α/BT variants only reshuffle near cutlines → treat as ties.
+- **Deliverables.** CSVs + viewer; see **Data**.
 
 ## Layout
 ```
@@ -20,6 +27,7 @@ src/
 data/
   entities.sample.jsonl
   results.sample.jsonl
+  pi-top/...
 tests/
   unit/...
 .github/workflows/

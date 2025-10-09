@@ -65,6 +65,93 @@
 - yoga_mats
 - yoga_towels
 
+## Final Aggregates
+
+These CSVs contain Plackett–Luce (PL) and frequency statistics for each category.
+- **pl_rank**: Rank by PL mean score (lower is better)
+- **pl_score**: Estimated worth (normalized)
+- **pl_ci_low / pl_ci_high**: 95 % bootstrap confidence interval
+- **freq_top1 / freq_top3**: Share of times the brand appeared in top 1 or top 3 positions
+- **_ci**: Approx. bootstrap confidence width for the frequency metric
+
+All scores derived from canonicalized data in `/data/results.canonical.jsonl`
+using `php bin/aggregate.php`
+
+## Category Case Studies (PL vs Popularity)
+
+Below we highlight eight representative categories that illustrate distinct agreement/disagreement patterns between **PL** (our Bradley–Terry/Plackett–Luce worth) and **popularity** (frequency@1/@3). These cases are drawn from final data results (global). Unless stated otherwise, interpret reshuffles near cutlines as statistical ties.
+
+### 1. Consensus leader
+**Rowers.** Figure 1 shows a textbook consensus: **Concept2** dominates on PL and also leads in popularity; the remainder forms a second tier (e.g., WaterRower, NordicTrack). This is the ideal “quality aligns with popularity” scenario.
+
+**Figure 1. Rowers — consensus leader.**  
+![Figure 1: Rowers — consensus leader](images/pl_rowers.png)  
+*PL crowns Concept2 and frequency@1/@3 agree; remaining brands form a distant pack.*
+
+---
+
+### 2. Extreme dominance
+**Protein powders.** Figure 2 captures an extreme case: **Optimum Nutrition** nearly saturates PL and wins popularity. The rest of the market drops off when a single “default” brand is dominate.
+
+**Figure 2. Protein powders — extreme dominance.**  
+![Figure 2: Protein powders — extreme dominance](images/pl_protein_powders.png)  
+*A single brand (Optimum Nutrition) dominates PL and frequency, with a very long tail.*
+
+---
+
+### 3. PL ≠ popularity (divergence)
+**Running shoes.** Figure 3 shows divergence: a PL leader (e.g., **Nike**) coexists with shortlist momentum around **Brooks/ASICS** in frequency@3.
+
+**Figure 3. Running shoes — PL vs popularity divergence.**  
+![Figure 3: Running shoes — PL vs popularity divergence](images/pl_running_shoes.png)  
+*Quality (PL) favors one brand while users shortlist others.*
+
+---
+
+### 4. Tight race / overlapping leaders
+**Triathlon wetsuits.** Figure 4 exhibits a compact top cluster (**Orca**, **Quintana Roo**, **BlueSeventy**). With overlapping uncertainty, these are practical ties; policy should avoid over-interpreting small gaps.
+
+**Figure 4. Triathlon wetsuits — tight race.**  
+![Figure 4: Triathlon wetsuits — tight race](images/pl_triathlon_wetsuits.png)  
+*A 2–3 brand pack with overlapping PL uncertainty—treat as statistical ties near the cutline.*
+
+---
+
+### 5. Long tail + alias risk
+**Resistance bands.** Figure 5 shows **TheraBand** as the PL leader, while popularity drops across rivals (e.g., SPRI, Bodylastics). The shape also reveals potential substitution pitfalls—worth expanding on.
+
+**Figure 5. Resistance bands — long tail (and alias risk).**  
+![Figure 5: Resistance bands — long tail](images/pl_resistance_bands.png)  
+*Clear PL leader but fragmented popularity; prioritize alias cleanup and a tight top-N.*
+
+---
+
+### 6. Regional/retailer bias
+**Winter jackets.** Figure 6 illustrates preference splits likely driven by locale/retailer exposure: PL favors **UNIQLO**, while frequency@1 spikes on **The North Face**. This is a good reminder that popularity is not the same as factors such as quality.
+
+**Figure 6. Winter jackets — regional/retailer effects.**  
+![Figure 6: Winter jackets — regional/retailer effects](images/pl_winter_jackets.png)  
+*PL and popularity point to different leaders; likely influenced by regional/retailer footprint.*
+
+---
+
+### 7. Defined podium
+**Pickleball paddles.** Figure 7 presents a clean top-3 (e.g., **Selkirk**, **Paddletek**, **ONIX**) that’s consistent across PL and frequency@3. This is where a fixed cutline with stable recommendations works well.
+
+**Figure 7. Pickleball paddles — clear podium.**  
+![Figure 7: Pickleball paddles — clear podium](images/pl_pickleball_paddles.png)  
+*A stable top-3 across PL and frequency; well-suited to a fixed recommendations set.*
+
+---
+
+### 8. Fragxmented market / no winner
+**Smart jump ropes.** Figure 8 shows no dominant PL leader and scattered frequency spikes. In such categories, widen coverage and favor specific situations over hard defaulting.
+
+**Figure 8. Smart jump ropes — fragmented field.**  
+![Figure 8: Smart jump ropes — fragmented field](images/pl_smart_jump_ropes.png)  
+*Low, diffuse PL with sporadic popularity spikes—prefer broader coverage and exploration.*
+
+---
 ## Layout
 ```
 bin/

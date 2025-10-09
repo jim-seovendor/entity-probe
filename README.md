@@ -11,6 +11,60 @@
 - **Sensitivity.** α/BT variants only reshuffle near cutlines → treat as ties.
 - **Deliverables.** CSVs + viewer; see **Data**.
 
+### Categories (52)
+- adjustable_dumbbells
+- alpine_boots
+- base_layers
+- basketball_apparel
+- basketball_hoops
+- basketball_shoes
+- compression_leggings
+- compression_shorts
+- creatine_monohydrate
+- cross_training_shoes
+- down_jackets
+- ellipticals
+- fitness_trackers
+- foam_rollers
+- football_boots
+- golf_apparel
+- golf_rangefinders
+- golf_shoes
+- headlamps
+- hiking_boots
+- indoor_soccer_shoes
+- light_hiking_shoes
+- max_cushion_running_shoes
+- merino_socks
+- pickleball_paddles
+- protein_powders
+- racing_flats
+- rain_jackets
+- resistance_bands
+- road_running_shoes
+- rowers
+- running_shoes
+- running_socks
+- smart_jump_ropes
+- soccer_cleats
+- spin_bikes
+- sports_bras
+- sports_water_bottles
+- sunglasses_for_running
+- swim_goggles
+- tennis_apparel
+- tennis_rackets
+- tennis_shoes
+- trail_backpacks
+- trail_hiking_boots
+- trail_running_shoes
+- treadmills
+- triathlon_wetsuits
+- winter_jackets
+- yoga_blocks
+- yoga_mats
+- yoga_towels
+
 ## Layout
 ```
 bin/

@@ -1,0 +1,14 @@
+category,entity,pl_rank,pl_score,pl_ci_low,pl_ci_high,freq_top1,freq_top1_ci,freq_top3,freq_top3_ci
+trail_hiking_boots,Merrell,1,0.987581,0.976656,0.990574,1.000000,0.074081,1.000000,0.074081
+trail_hiking_boots,Salomon,2,0.007997,0.006394,0.010043,0,,0.885714,0.074081
+trail_hiking_boots,Columbia,3,0.001411,0.000000,0.004820,0,,0.014286,0.074081
+trail_hiking_boots,Vasque,4,0.000653,0.000181,0.001350,0,,0.500000,0.074081
+trail_hiking_boots,LOWA,5,0.000535,0.000000,0.001240,0,,0.014286,0.074081
+trail_hiking_boots,"The North Face",6,0.000418,0.000000,0.009751,0,,0.014286,0.074081
+trail_hiking_boots,"La Sportiva",7,0.000411,0.000111,0.000718,0,,0.371429,0.074081
+trail_hiking_boots,Danner,8,0.000329,0.000067,0.000729,0,,0.114286,0.074081
+trail_hiking_boots,Scarpa,9,0.000259,0.000064,0.000432,0,,0.042857,0.074081
+trail_hiking_boots,Lowa,10,0.000182,0.000027,0.000564,0,,0.014286,0.074081
+trail_hiking_boots,Keen,11,0.000086,0.000005,0.000272,0,,0,
+trail_hiking_boots,Oboz,12,0.000083,0.000014,0.000171,0,,0.014286,0.074081
+trail_hiking_boots,KEEN,13,0.000055,0.000000,0.000082,0,,0,

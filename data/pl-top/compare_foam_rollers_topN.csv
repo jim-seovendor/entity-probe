@@ -1,0 +1,28 @@
+category,entity,pl_rank,pl_score,pl_ci_low,pl_ci_high,freq_top1,freq_top1_ci,freq_top3,freq_top3_ci
+foam_rollers,"TriggerPoint Performance",1,0.531236,0.310904,0.777486,0.060000,0.061981,0.060000,0.061981
+foam_rollers,"TriggerPoint Performance Therapy",2,0.448635,0.190754,0.682863,0.070000,0.061981,0.070000,0.061981
+foam_rollers,TriggerPoint,3,0.015353,0.001705,0.091027,0.830000,0.061981,0.850000,0.061981
+foam_rollers,BLACKROLL,4,0.001293,0.000000,0.011066,0.010000,0.061981,0.020000,0.061981
+foam_rollers,OPTP,5,0.000711,0.000084,0.001140,0.010000,0.061981,0.650000,0.061981
+foam_rollers,LifePro,6,0.000393,0.000000,0.000493,0,,0,
+foam_rollers,Blackroll,7,0.000333,0.000037,0.000557,0.010000,0.061981,0.020000,0.061981
+foam_rollers,RumbleRoller,8,0.000321,0.000035,0.000472,0,,0.440000,0.061981
+foam_rollers,SPRI,9,0.000302,0.000037,0.000431,0.020000,0.061981,0.380000,0.061981
+foam_rollers,"Physix Gear Fitness",10,0.000259,0.000000,0.000359,0,,0,
+foam_rollers,Rollga,11,0.000194,0.000016,0.000441,0,,0.030000,0.061981
+foam_rollers,LuxFit,12,0.000154,0.000017,0.000290,0,,0.130000,0.061981
+foam_rollers,"Black Mountain Products",13,0.000143,0.000012,0.000299,0,,0.010000,0.061981
+foam_rollers,"Rogue Fitness",14,0.000113,0.000009,0.000197,0,,0.030000,0.061981
+foam_rollers,Acumobility,15,0.000095,0.000000,0.000262,0,,0,
+foam_rollers,Harbinger,16,0.000082,0.000000,0.000121,0,,0,
+foam_rollers,"Sivan Health & Fitness",17,0.000063,0.000000,0.000092,0,,0,
+foam_rollers,Gaiam,18,0.000041,0.000002,0.000074,0,,0,
+foam_rollers,"CAP Barbell",19,0.000041,0.000002,0.000083,0,,0.020000,0.061981
+foam_rollers,TheraBand,20,0.000040,0.000000,0.000055,0,,0,
+foam_rollers,Stamina,21,0.000038,0.000000,0.000056,0,,0,
+foam_rollers,"Sunny Health & Fitness",22,0.000036,0.000000,0.000051,0,,0,
+foam_rollers,"Roll Recovery",23,0.000036,0.000000,0.000045,0,,0,
+foam_rollers,"Mueller Sports Medicine",24,0.000036,0.000000,0.000045,0,,0,
+foam_rollers,Hyperice,25,0.000034,0.000000,0.000235,0,,0,
+foam_rollers,Yes4All,26,0.000008,0.000000,0.000033,0,,0,
+foam_rollers,"Power Systems",27,0.000008,0.000000,0.000026,0,,0,

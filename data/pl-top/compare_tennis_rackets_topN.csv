@@ -1,0 +1,9 @@
+category,entity,pl_rank,pl_score,pl_ci_low,pl_ci_high,freq_top1,freq_top1_ci,freq_top3,freq_top3_ci
+tennis_rackets,Wilson,1,0.977489,0.928601,0.992636,0.983333,0.080017,1.000000,0.080017
+tennis_rackets,Head,2,0.019694,0.006024,0.058218,0.016667,0.080017,0.983333,0.080017
+tennis_rackets,Babolat,3,0.001557,0.000220,0.005441,0,,0.600000,0.080017
+tennis_rackets,Yonex,4,0.001078,0.000188,0.003253,0,,0.416667,0.080017
+tennis_rackets,Volkl,5,0.000160,0.000000,0.000360,0,,0,
+tennis_rackets,Dunlop,6,0.000008,0.000002,0.000029,0,,0,
+tennis_rackets,Tecnifibre,7,0.000008,0.000001,0.000025,0,,0,
+tennis_rackets,Prince,8,0.000005,0.000001,0.000017,0,,0,

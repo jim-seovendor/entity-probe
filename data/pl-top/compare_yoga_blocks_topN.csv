@@ -1,0 +1,22 @@
+category,entity,pl_rank,pl_score,pl_ci_low,pl_ci_high,freq_top1,freq_top1_ci,freq_top3,freq_top3_ci
+yoga_blocks,Manduka,1,0.688066,0.596596,0.912352,0.850000,0.098000,1.000000,0.098000
+yoga_blocks,"JADE Yoga",2,0.094158,0.000000,0.119467,0.025000,0.098000,0.025000,0.098000
+yoga_blocks,Gaiam,3,0.069395,0.024129,0.132350,0.100000,0.098000,0.825000,0.098000
+yoga_blocks,"Hugger Mugger",4,0.034263,0.011591,0.058388,0.025000,0.098000,0.750000,0.098000
+yoga_blocks,JadeYoga,5,0.024953,0.002568,0.103987,0.025000,0.098000,0.025000,0.098000
+yoga_blocks,"Sivan Health and Wellness",6,0.023434,0.000000,0.034503,0,,0,
+yoga_blocks,"Jade Yoga",7,0.022810,0.007253,0.047189,0.025000,0.098000,0.025000,0.098000
+yoga_blocks,Liforme,8,0.015338,0.000555,0.060155,0,,0.025000,0.098000
+yoga_blocks,OPTP,9,0.007893,0.000000,0.055389,0,,0,
+yoga_blocks,Tumaz,10,0.005440,0.000000,0.007960,0,,0,
+yoga_blocks,"Fit Simplify",11,0.003510,0.000000,0.005223,0,,0,
+yoga_blocks,"Black Mountain Products",12,0.002886,0.000000,0.006260,0,,0,
+yoga_blocks,CleverYoga,13,0.002886,0.000000,0.006996,0,,0,
+yoga_blocks,Merrithew,14,0.002189,0.000000,0.011912,0,,0,
+yoga_blocks,"Yoga Design Lab",15,0.001473,0.000300,0.003727,0,,0,
+yoga_blocks,SPRI,16,0.000758,0.000000,0.003970,0,,0,
+yoga_blocks,Trideer,17,0.000237,0.000000,0.005885,0,,0,
+yoga_blocks,"Sivan Health and Fitness",18,0.000155,0.000015,0.000496,0,,0,
+yoga_blocks,"Sivan Health & Fitness",19,0.000100,0.000014,0.001783,0,,0,
+yoga_blocks,"Sunny Health & Fitness",20,0.000033,0.000000,0.000082,0,,0,
+yoga_blocks,Heathyoga,21,0.000022,0.000000,0.005160,0,,0,

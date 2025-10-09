@@ -1,0 +1,8 @@
+category,entity,pl_rank,pl_score,pl_ci_low,pl_ci_high,freq_top1,freq_top1_ci,freq_top3,freq_top3_ci
+rain_jackets,"The North Face",1,0.977881,0.942259,0.993588,0.983333,0.080017,1.000000,0.080017
+rain_jackets,Patagonia,2,0.016857,0.004461,0.046620,0.016667,0.080017,0.950000,0.080017
+rain_jackets,Arc'teryx,3,0.002172,0.000410,0.006150,0,,0.633333,0.080017
+rain_jackets,Columbia,4,0.001738,0.000297,0.005848,0,,0.250000,0.080017
+rain_jackets,"Columbia Sportswear",5,0.000931,0.000141,0.003439,0,,0.150000,0.080017
+rain_jackets,Marmot,6,0.000268,0.000038,0.000869,0,,0.016667,0.080017
+rain_jackets,"Mountain Hardwear",7,0.000153,0.000000,0.000364,0,,0,

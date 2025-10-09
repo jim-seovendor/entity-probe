@@ -1,0 +1,29 @@
+category,entity,pl_rank,pl_score,pl_ci_low,pl_ci_high,freq_top1,freq_top1_ci,freq_top3,freq_top3_ci
+compression_leggings,Nike,1,0.348299,0.007400,0.517252,0.612500,0.069296,0.975000,0.069296
+compression_leggings,Uniqlo,2,0.236670,0.000000,0.983880,0.025000,0.069296,0.025000,0.069296
+compression_leggings,Adidas,3,0.101415,0.001777,0.146033,0.212500,0.069296,0.737500,0.069296
+compression_leggings,"Under Armour",4,0.057288,0.000943,0.089852,0.087500,0.069296,0.800000,0.069296
+compression_leggings,CEP,5,0.029035,0.000232,0.110826,0.012500,0.069296,0.025000,0.069296
+compression_leggings,Lululemon,6,0.026639,0.000362,0.056137,0.012500,0.069296,0.137500,0.069296
+compression_leggings,ASICS,7,0.023615,0.000234,0.039756,0,,0,
+compression_leggings,Puma,8,0.023189,0.000152,0.053308,0,,0.050000,0.069296
+compression_leggings,SKINS,9,0.022819,0.000025,0.168497,0.012500,0.069296,0.012500,0.069296
+compression_leggings,ZOZOTOWN,10,0.017210,0.000000,0.026341,0,,0,
+compression_leggings,CW-X,11,0.016216,0.000040,0.055662,0,,0.012500,0.069296
+compression_leggings,Mizuno,12,0.015142,0.000154,0.034423,0,,0.025000,0.069296
+compression_leggings,2XU,13,0.011348,0.000099,0.021510,0.012500,0.069296,0.137500,0.069296
+compression_leggings,"CEP Compression",14,0.010860,0.000000,0.020484,0,,0,
+compression_leggings,PUMA,15,0.009643,0.000000,0.026912,0,,0.050000,0.069296
+compression_leggings,Skins,16,0.009183,0.000065,0.028791,0.012500,0.069296,0.012500,0.069296
+compression_leggings,Asics,17,0.008463,0.000000,0.051390,0,,0,
+compression_leggings,Gymshark,18,0.007383,0.000065,0.016231,0.012500,0.069296,0.037500,0.069296
+compression_leggings,Wacoal,19,0.007371,0.000000,0.009638,0,,0,
+compression_leggings,Fabletics,20,0.006047,0.000000,0.026212,0,,0,
+compression_leggings,Zalando,21,0.002692,0.000003,0.026984,0,,0.012500,0.069296
+compression_leggings,Decathlon,22,0.002650,0.000006,0.008030,0,,0,
+compression_leggings,Descente,23,0.002349,0.000000,0.003854,0,,0,
+compression_leggings,Falke,24,0.001962,0.000000,0.002860,0,,0,
+compression_leggings,Spanx,25,0.000740,0.000000,0.002363,0,,0,
+compression_leggings,Amazon,26,0.000677,0.000000,0.002357,0,,0,
+compression_leggings,Reebok,27,0.000574,0.000000,0.002249,0,,0,
+compression_leggings,"About You",28,0.000520,0.000000,0.001795,0,,0,

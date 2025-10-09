@@ -1,0 +1,20 @@
+category,entity,pl_rank,pl_score,pl_ci_low,pl_ci_high,freq_top1,freq_top1_ci,freq_top3,freq_top3_ci
+yoga_towels,Manduka,1,0.892675,0.776752,0.977060,0.950000,0.098000,1.000000,0.098000
+yoga_towels,Gaiam,2,0.042733,0.008534,0.101430,0.050000,0.098000,0.925000,0.098000
+yoga_towels,"Yoga Design Lab",3,0.018106,0.003384,0.042934,0,,0.025000,0.098000
+yoga_towels,Yogitoes,4,0.012184,0.001668,0.039905,0,,0.225000,0.098000
+yoga_towels,YogaDesignLab,5,0.006945,0.000000,0.102229,0,,0.025000,0.098000
+yoga_towels,Lululemon,6,0.006850,0.000900,0.017850,0,,0.200000,0.098000
+yoga_towels,Liforme,7,0.006033,0.000682,0.014457,0,,0.175000,0.098000
+yoga_towels,"YogaDesign Lab",8,0.004392,0.000000,0.007126,0,,0.025000,0.098000
+yoga_towels,"Aurorae Yoga",9,0.001867,0.000000,0.003156,0,,0,
+yoga_towels,"ALO Yoga",10,0.001727,0.000000,0.002659,0,,0,
+yoga_towels,Shandali,11,0.001633,0.000103,0.004226,0,,0.025000,0.098000
+yoga_towels,"Hugger Mugger",12,0.001535,0.000086,0.004811,0,,0.050000,0.098000
+yoga_towels,Heathyoga,13,0.000892,0.000000,0.001560,0,,0,
+yoga_towels,Tumaz,14,0.000829,0.000000,0.001380,0,,0,
+yoga_towels,"Alo Yoga",15,0.000574,0.000020,0.001601,0,,0,
+yoga_towels,Kulae,16,0.000506,0.000000,0.002271,0,,0,
+yoga_towels,Nike,17,0.000412,0.000004,0.002339,0,,0,
+yoga_towels,"Yoga Design Co.",18,0.000091,0.000000,0.000134,0,,0,
+yoga_towels,"Under Armour",19,0.000017,0.000000,0.000327,0,,0,

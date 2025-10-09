@@ -1,0 +1,11 @@
+category,entity,pl_rank,pl_score,pl_ci_low,pl_ci_high,freq_top1,freq_top1_ci,freq_top3,freq_top3_ci
+max_cushion_running_shoes,HOKA,1,0.572991,0.071279,0.932574,0.375000,0.098000,0.400000,0.098000
+max_cushion_running_shoes,Hoka,2,0.398047,0.056208,0.920035,0.375000,0.098000,0.400000,0.098000
+max_cushion_running_shoes,Brooks,3,0.025659,0.003059,0.056936,0.025000,0.098000,1.000000,0.098000
+max_cushion_running_shoes,ASICS,4,0.001029,0.000038,0.004301,0.025000,0.098000,0.025000,0.098000
+max_cushion_running_shoes,NIKE,5,0.000961,0.000000,0.002811,0,,0.200000,0.098000
+max_cushion_running_shoes,Asics,6,0.000575,0.000000,0.002823,0.025000,0.098000,0.025000,0.098000
+max_cushion_running_shoes,"New Balance",7,0.000337,0.000011,0.001235,0,,0.150000,0.098000
+max_cushion_running_shoes,Nike,8,0.000281,0.000009,0.001446,0,,0.200000,0.098000
+max_cushion_running_shoes,Saucony,9,0.000062,0.000001,0.000270,0,,0,
+max_cushion_running_shoes,Adidas,10,0.000058,0.000000,0.000155,0,,0,

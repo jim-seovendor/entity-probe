@@ -1,0 +1,14 @@
+category,entity,pl_rank,pl_score,pl_ci_low,pl_ci_high,freq_top1,freq_top1_ci,freq_top3,freq_top3_ci
+tennis_apparel,Nike,1,0.988271,0.986411,0.989541,1.000000,0.080017,1.000000,0.080017
+tennis_apparel,Adidas,2,0.011287,0.010211,0.011560,0,,1.000000,0.080017
+tennis_apparel,"Under Armour",3,0.000178,0.000113,0.000225,0,,0.633333,0.080017
+tennis_apparel,Head,4,0.000083,0.000000,0.000114,0,,0,
+tennis_apparel,Lacoste,5,0.000046,0.000017,0.000069,0,,0.233333,0.080017
+tennis_apparel,Asics,6,0.000037,0.000000,0.000045,0,,0.016667,0.080017
+tennis_apparel,Puma,7,0.000024,0.000008,0.000041,0,,0.016667,0.080017
+tennis_apparel,Yonex,8,0.000024,0.000004,0.000073,0,,0.083333,0.080017
+tennis_apparel,Fila,9,0.000017,0.000005,0.000032,0,,0.016667,0.080017
+tennis_apparel,"New Balance",10,0.000010,0.000003,0.000015,0,,0,
+tennis_apparel,Wilson,11,0.000010,0.000000,0.000047,0,,0,
+tennis_apparel,ASICS,12,0.000009,0.000000,0.002040,0,,0.016667,0.080017
+tennis_apparel,Mizuno,13,0.000004,0.000000,0.000008,0,,0,

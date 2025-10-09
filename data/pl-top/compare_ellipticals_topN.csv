@@ -1,0 +1,13 @@
+category,entity,pl_rank,pl_score,pl_ci_low,pl_ci_high,freq_top1,freq_top1_ci,freq_top3,freq_top3_ci
+ellipticals,NordicTrack,1,0.933678,0.858523,0.989208,0.950000,0.098000,1.000000,0.098000
+ellipticals,ProForm,2,0.050585,0.009108,0.095668,0,,0.950000,0.098000
+ellipticals,"Life Fitness",3,0.004327,0.000185,0.012294,0.025000,0.098000,0.600000,0.098000
+ellipticals,"Sole Fitness",4,0.004121,0.000240,0.011815,0,,0.325000,0.098000
+ellipticals,"Schwinn Fitness",5,0.003429,0.000000,0.007368,0,,0,
+ellipticals,Precor,6,0.001238,0.000038,0.003595,0,,0.075000,0.098000
+ellipticals,Bowflex,7,0.001156,0.000014,0.018225,0.025000,0.098000,0.025000,0.098000
+ellipticals,"Horizon Fitness",8,0.000812,0.000018,0.005296,0,,0.025000,0.098000
+ellipticals,Schwinn,9,0.000212,0.000000,0.000539,0,,0,
+ellipticals,Technogym,10,0.000212,0.000000,0.000420,0,,0,
+ellipticals,"Vision Fitness",11,0.000212,0.000000,0.000415,0,,0,
+ellipticals,"Matrix Fitness",12,0.000020,0.000001,0.000108,0,,0,

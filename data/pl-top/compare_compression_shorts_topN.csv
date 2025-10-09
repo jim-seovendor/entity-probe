@@ -1,0 +1,19 @@
+category,entity,pl_rank,pl_score,pl_ci_low,pl_ci_high,freq_top1,freq_top1_ci,freq_top3,freq_top3_ci
+compression_shorts,Nike,1,0.686066,0.588996,0.788186,0.700000,0.080017,1.000000,0.080017
+compression_shorts,"Under Armour",2,0.301754,0.205833,0.398086,0.300000,0.080017,1.000000,0.080017
+compression_shorts,Adidas,3,0.006720,0.004296,0.007638,0,,0.983333,0.080017
+compression_shorts,Mizuno,4,0.001637,0.000000,0.001831,0,,0,
+compression_shorts,PUMA,5,0.001610,0.000000,0.001801,0,,0,
+compression_shorts,Champion,6,0.000752,0.000000,0.001720,0,,0,
+compression_shorts,Asics,7,0.000463,0.000000,0.003241,0,,0,
+compression_shorts,Puma,8,0.000440,0.000188,0.000622,0,,0,
+compression_shorts,"New Balance",9,0.000419,0.000023,0.002246,0,,0,
+compression_shorts,Reebok,10,0.000090,0.000000,0.001422,0,,0,
+compression_shorts,2XU,11,0.000023,0.000009,0.000042,0,,0.016667,0.080017
+compression_shorts,ASICS,12,0.000010,0.000000,0.001569,0,,0,
+compression_shorts,CEP,13,0.000006,0.000000,0.000008,0,,0,
+compression_shorts,Compressport,14,0.000006,0.000000,0.000009,0,,0,
+compression_shorts,CW-X,15,0.000002,0.000000,0.000007,0,,0,
+compression_shorts,McDavid,16,0.000001,0.000000,0.000009,0,,0,
+compression_shorts,SKINS,17,0.000001,0.000000,0.000002,0,,0,
+compression_shorts,Skins,18,0.000000,0.000000,0.000001,0,,0,

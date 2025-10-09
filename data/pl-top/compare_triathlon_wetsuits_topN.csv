@@ -1,0 +1,17 @@
+category,entity,pl_rank,pl_score,pl_ci_low,pl_ci_high,freq_top1,freq_top1_ci,freq_top3,freq_top3_ci
+triathlon_wetsuits,Orca,1,0.266218,0.142943,0.471268,0.475000,0.098000,0.850000,0.098000
+triathlon_wetsuits,"Quintana Roo",2,0.249028,0.000000,0.282302,0,,0.025000,0.098000
+triathlon_wetsuits,Blueseventy,3,0.200521,0.123107,0.316224,0.125000,0.098000,0.900000,0.098000
+triathlon_wetsuits,TYR,4,0.086281,0.031047,0.190484,0.375000,0.098000,0.750000,0.098000
+triathlon_wetsuits,Zone3,5,0.038842,0.015013,0.068580,0,,0.175000,0.098000
+triathlon_wetsuits,ROKA,6,0.031615,0.000788,0.327103,0.025000,0.098000,0.050000,0.098000
+triathlon_wetsuits,2XU,7,0.031011,0.003824,0.075717,0,,0.050000,0.098000
+triathlon_wetsuits,HUUB,8,0.027728,0.007524,0.052436,0,,0.025000,0.098000
+triathlon_wetsuits,Sailfish,9,0.014760,0.000000,0.046067,0,,0,
+triathlon_wetsuits,"De Soto",10,0.012986,0.000782,0.028809,0,,0,
+triathlon_wetsuits,Huub,11,0.011367,0.000242,0.129342,0,,0.025000,0.098000
+triathlon_wetsuits,"Aqua Sphere",12,0.010464,0.000247,0.040044,0,,0,
+triathlon_wetsuits,Zoot,13,0.007885,0.000000,0.355223,0,,0.025000,0.098000
+triathlon_wetsuits,Speedo,14,0.005150,0.000000,0.022378,0,,0,
+triathlon_wetsuits,"Rip Curl",15,0.004254,0.000000,0.006478,0,,0,
+triathlon_wetsuits,"De Soto Sports",16,0.001891,0.000000,0.004459,0,,0,

@@ -1,0 +1,10 @@
+category,entity,pl_rank,pl_score,pl_ci_low,pl_ci_high,freq_top1,freq_top1_ci,freq_top3,freq_top3_ci
+basketball_apparel,Nike,1,0.991704,0.990561,0.992684,1.000000,0.080017,1.000000,0.080017
+basketball_apparel,Adidas,2,0.005678,0.004807,0.006489,0,,1.000000,0.080017
+basketball_apparel,"Under Armour",3,0.001074,0.000832,0.001289,0,,0.650000,0.080017
+basketball_apparel,"Jordan Brand",4,0.001024,0.000374,0.002040,0,,0.316667,0.080017
+basketball_apparel,Jordan,5,0.000199,0.000022,0.000930,0,,0.033333,0.080017
+basketball_apparel,"Mitchell & Ness",6,0.000182,0.000000,0.000206,0,,0,
+basketball_apparel,Converse,7,0.000072,0.000000,0.000198,0,,0,
+basketball_apparel,Puma,8,0.000061,0.000014,0.000109,0,,0,
+basketball_apparel,"New Balance",9,0.000006,0.000000,0.000026,0,,0,

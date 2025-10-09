@@ -1,0 +1,16 @@
+category,entity,pl_rank,pl_score,pl_ci_low,pl_ci_high,freq_top1,freq_top1_ci,freq_top3,freq_top3_ci
+light_hiking_shoes,Merrell,1,0.976819,0.794117,0.984717,1.000000,0.098000,1.000000,0.098000
+light_hiking_shoes,Salomon,2,0.013051,0.004209,0.016080,0,,0.925000,0.098000
+light_hiking_shoes,HOKA,3,0.002015,0.000000,0.021625,0,,0.025000,0.098000
+light_hiking_shoes,"Columbia Sportswear",4,0.001894,0.000000,0.002255,0,,0,
+light_hiking_shoes,"The North Face",5,0.001592,0.000206,0.004456,0,,0.275000,0.098000
+light_hiking_shoes,KEEN,6,0.001213,0.000032,0.004817,0,,0.050000,0.098000
+light_hiking_shoes,"La Sportiva",7,0.001070,0.000123,0.002164,0,,0.375000,0.098000
+light_hiking_shoes,Columbia,8,0.001036,0.000106,0.002785,0,,0.150000,0.098000
+light_hiking_shoes,LOWA,9,0.000637,0.000000,0.001501,0,,0,
+light_hiking_shoes,Keen,10,0.000168,0.000006,0.000596,0,,0.050000,0.098000
+light_hiking_shoes,Scarpa,11,0.000160,0.000003,0.000673,0,,0,
+light_hiking_shoes,Altra,12,0.000136,0.000000,0.177206,0,,0.050000,0.098000
+light_hiking_shoes,Vasque,13,0.000117,0.000003,0.000461,0,,0.050000,0.098000
+light_hiking_shoes,Oboz,14,0.000068,0.000001,0.000889,0,,0.025000,0.098000
+light_hiking_shoes,Lowa,15,0.000024,0.000000,0.000061,0,,0,

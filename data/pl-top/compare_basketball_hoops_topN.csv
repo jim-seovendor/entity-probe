@@ -1,0 +1,18 @@
+category,entity,pl_rank,pl_score,pl_ci_low,pl_ci_high,freq_top1,freq_top1_ci,freq_top3,freq_top3_ci
+basketball_hoops,Spalding,1,0.857203,0.736344,0.961154,0.875000,0.098000,1.000000,0.098000
+basketball_hoops,Lifetime,2,0.136009,0.037894,0.254121,0.125000,0.098000,1.000000,0.098000
+basketball_hoops,Goalrilla,3,0.003665,0.000825,0.005854,0,,0.950000,0.098000
+basketball_hoops,"OnCourt OffCourt",4,0.001770,0.000000,0.002559,0,,0,
+basketball_hoops,"Silverback Hoops",5,0.000380,0.000000,0.001279,0,,0,
+basketball_hoops,"Park & Sun",6,0.000272,0.000000,0.000394,0,,0,
+basketball_hoops,Goalsetter,7,0.000173,0.000021,0.000421,0,,0.050000,0.098000
+basketball_hoops,Goaliath,8,0.000137,0.000000,0.000907,0,,0,
+basketball_hoops,"First Team",9,0.000108,0.000003,0.000906,0,,0,
+basketball_hoops,Gared,10,0.000071,0.000000,0.001345,0,,0,
+basketball_hoops,Silverback,11,0.000058,0.000002,0.000218,0,,0,
+basketball_hoops,"Pro Dunk Hoops",12,0.000050,0.000005,0.000156,0,,0,
+basketball_hoops,GARED,13,0.000036,0.000000,0.000059,0,,0,
+basketball_hoops,"Franklin Sports",14,0.000036,0.000000,0.000068,0,,0,
+basketball_hoops,Wilson,15,0.000015,0.000000,0.000155,0,,0,
+basketball_hoops,"First Team Hoops",16,0.000015,0.000000,0.000067,0,,0,
+basketball_hoops,"Pro Dunk",17,0.000002,0.000000,0.000015,0,,0,

@@ -1,0 +1,11 @@
+category,entity,pl_rank,pl_score,pl_ci_low,pl_ci_high,freq_top1,freq_top1_ci,freq_top3,freq_top3_ci
+road_running_shoes,Nike,1,0.985655,0.981545,0.987481,1.000000,0.080017,1.000000,0.080017
+road_running_shoes,Adidas,2,0.013724,0.011825,0.016421,0,,0.750000,0.080017
+road_running_shoes,"Brooks Running",3,0.000259,0.000060,0.003911,0,,0.066667,0.080017
+road_running_shoes,Brooks,4,0.000142,0.000089,0.000204,0,,0.583333,0.080017
+road_running_shoes,ASICS,5,0.000076,0.000029,0.000163,0,,0.216667,0.080017
+road_running_shoes,Asics,6,0.000060,0.000030,0.000098,0,,0.216667,0.080017
+road_running_shoes,HOKA,7,0.000057,0.000003,0.000224,0,,0.016667,0.080017
+road_running_shoes,"New Balance",8,0.000017,0.000006,0.000031,0,,0.116667,0.080017
+road_running_shoes,Saucony,9,0.000007,0.000002,0.000011,0,,0,
+road_running_shoes,Hoka,10,0.000003,0.000000,0.000012,0,,0.016667,0.080017

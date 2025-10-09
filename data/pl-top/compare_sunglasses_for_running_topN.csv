@@ -1,0 +1,18 @@
+category,entity,pl_rank,pl_score,pl_ci_low,pl_ci_high,freq_top1,freq_top1_ci,freq_top3,freq_top3_ci
+sunglasses_for_running,Oakley,1,0.909601,0.852914,0.970067,0.966667,0.080017,1.000000,0.080017
+sunglasses_for_running,Nike,2,0.047734,0.011102,0.099013,0.033333,0.080017,0.766667,0.080017
+sunglasses_for_running,"Nike Vision",3,0.033866,0.017590,0.051563,0,,0.183333,0.080017
+sunglasses_for_running,"Adidas Eyewear",4,0.007616,0.000000,0.010633,0,,0.016667,0.080017
+sunglasses_for_running,"Under Armour",5,0.000595,0.000149,0.001163,0,,0.600000,0.080017
+sunglasses_for_running,Adidas,6,0.000301,0.000075,0.000598,0,,0.216667,0.080017
+sunglasses_for_running,Bollé,7,0.000187,0.000000,0.000405,0,,0,
+sunglasses_for_running,"Smith Optics",8,0.000034,0.000004,0.000080,0,,0.150000,0.080017
+sunglasses_for_running,"Maui Jim",9,0.000022,0.000001,0.000093,0,,0.050000,0.080017
+sunglasses_for_running,"Tifosi Optics",10,0.000014,0.000001,0.000036,0,,0,
+sunglasses_for_running,"Rudy Project",11,0.000011,0.000000,0.000040,0,,0.016667,0.080017
+sunglasses_for_running,Ray-Ban,12,0.000010,0.000000,0.000064,0,,0,
+sunglasses_for_running,Costa,13,0.000005,0.000000,0.000014,0,,0,
+sunglasses_for_running,Tifosi,14,0.000002,0.000000,0.000010,0,,0,
+sunglasses_for_running,POC,15,0.000001,0.000000,0.000044,0,,0,
+sunglasses_for_running,Julbo,16,0.000001,0.000000,0.000005,0,,0,
+sunglasses_for_running,Bolle,17,0.000000,0.000000,0.000001,0,,0,

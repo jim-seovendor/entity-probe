@@ -1,0 +1,20 @@
+category,entity,pl_rank,pl_score,pl_ci_low,pl_ci_high,freq_top1,freq_top1_ci,freq_top3,freq_top3_ci
+creatine_monohydrate,"Optimum Nutrition",1,0.794467,0.792545,0.977854,1.000000,0.098000,1.000000,0.098000
+creatine_monohydrate,Myprotein,2,0.176632,0.000000,0.180282,0,,0.025000,0.098000
+creatine_monohydrate,"NOW Sports",3,0.008672,0.000000,0.013323,0,,0.025000,0.098000
+creatine_monohydrate,MuscleTech,4,0.006581,0.004611,0.011475,0,,0.975000,0.098000
+creatine_monohydrate,"Dymatize Nutrition",5,0.005264,0.000000,0.013852,0,,0.050000,0.098000
+creatine_monohydrate,Dymatize,6,0.003496,0.001748,0.006903,0,,0.675000,0.098000
+creatine_monohydrate,BSN,7,0.001580,0.000000,0.002517,0,,0,
+creatine_monohydrate,"Jarrow Formulas",8,0.001021,0.000000,0.001682,0,,0,
+creatine_monohydrate,"Naked Nutrition",9,0.000635,0.000000,0.001193,0,,0,
+creatine_monohydrate,"Kaged Muscle",10,0.000491,0.000179,0.001023,0,,0.075000,0.098000
+creatine_monohydrate,"NOW Foods",11,0.000375,0.000059,0.001397,0,,0.125000,0.098000
+creatine_monohydrate,Cellucor,12,0.000253,0.000000,0.004810,0,,0.025000,0.098000
+creatine_monohydrate,"Transparent Labs",13,0.000226,0.000000,0.002916,0,,0.025000,0.098000
+creatine_monohydrate,"Universal Nutrition",14,0.000155,0.000000,0.000259,0,,0,
+creatine_monohydrate,BulkSupplements,15,0.000105,0.000005,0.000302,0,,0,
+creatine_monohydrate,NutraBio,16,0.000022,0.000000,0.000135,0,,0,
+creatine_monohydrate,"Bulk Supplements",17,0.000011,0.000001,0.000053,0,,0,
+creatine_monohydrate,"Allmax Nutrition",18,0.000011,0.000003,0.000085,0,,0,
+creatine_monohydrate,Nutricost,19,0.000002,0.000000,0.000043,0,,0,

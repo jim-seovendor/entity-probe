@@ -1,0 +1,10 @@
+category,entity,pl_rank,pl_score,pl_ci_low,pl_ci_high,freq_top1,freq_top1_ci,freq_top3,freq_top3_ci
+football_boots,Nike,1,0.967400,0.929225,0.988933,0.983333,0.080017,1.000000,0.080017
+football_boots,Adidas,2,0.026347,0.010900,0.058208,0.016667,0.080017,1.000000,0.080017
+football_boots,PUMA,3,0.005900,0.000000,0.009178,0,,0.016667,0.080017
+football_boots,Puma,4,0.000346,0.000157,0.000779,0,,0.016667,0.080017
+football_boots,"Under Armour",5,0.000005,0.000002,0.000011,0,,0,
+football_boots,"New Balance",6,0.000002,0.000001,0.000005,0,,0,
+football_boots,Mizuno,7,0.000001,0.000000,0.000002,0,,0,
+football_boots,Diadora,8,0.000000,0.000000,0.000001,0,,0,
+football_boots,Umbro,9,0.000000,0.000000,0.000001,0,,0,

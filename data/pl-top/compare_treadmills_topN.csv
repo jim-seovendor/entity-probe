@@ -1,0 +1,12 @@
+category,entity,pl_rank,pl_score,pl_ci_low,pl_ci_high,freq_top1,freq_top1_ci,freq_top3,freq_top3_ci
+treadmills,NordicTrack,1,0.975900,0.944459,0.989698,0.983333,0.080017,1.000000,0.080017
+treadmills,ProForm,2,0.023224,0.010102,0.050796,0,,1.000000,0.080017
+treadmills,"Life Fitness",3,0.000533,0.000104,0.002923,0.016667,0.080017,0.816667,0.080017
+treadmills,"Sole Fitness",4,0.000105,0.000011,0.000701,0,,0.116667,0.080017
+treadmills,"Horizon Fitness",5,0.000062,0.000007,0.000354,0,,0.066667,0.080017
+treadmills,Precor,6,0.000062,0.000007,0.000339,0,,0,
+treadmills,Technogym,7,0.000048,0.000000,0.000585,0,,0,
+treadmills,Bowflex,8,0.000032,0.000002,0.000186,0,,0,
+treadmills,Landice,9,0.000015,0.000000,0.000024,0,,0,
+treadmills,"Matrix Fitness",10,0.000014,0.000000,0.000158,0,,0,
+treadmills,Peloton,11,0.000005,0.000000,0.000073,0,,0,

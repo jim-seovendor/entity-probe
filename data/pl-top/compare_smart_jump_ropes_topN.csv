@@ -1,0 +1,31 @@
+category,entity,pl_rank,pl_score,pl_ci_low,pl_ci_high,freq_top1,freq_top1_ci,freq_top3,freq_top3_ci
+smart_jump_ropes,"Tangram Factory",1,0.216983,0.001893,0.511959,0.725000,0.098000,0.875000,0.098000
+smart_jump_ropes,"Omron Healthcare",2,0.187327,0.000000,0.255991,0,,0.025000,0.098000
+smart_jump_ropes,"LifePro Fitness",3,0.138919,0.000000,0.221833,0,,0.025000,0.098000
+smart_jump_ropes,"RX Smart Rope",4,0.123744,0.000000,0.196449,0,,0.025000,0.098000
+smart_jump_ropes,SportCount,5,0.055962,0.000000,0.079673,0,,0.025000,0.098000
+smart_jump_ropes,"Rx Smart Gear",6,0.051353,0.000698,0.157922,0.025000,0.098000,0.200000,0.098000
+smart_jump_ropes,Tangram,7,0.049597,0.002261,0.916653,0.100000,0.098000,0.100000,0.098000
+smart_jump_ropes,RENPHO,8,0.030832,0.000000,0.227503,0,,0.050000,0.098000
+smart_jump_ropes,"Xiaomi (Mijia)",9,0.026811,0.000000,0.067496,0,,0.025000,0.098000
+smart_jump_ropes,"RX Smart Gear",10,0.024304,0.000114,0.148621,0.025000,0.098000,0.200000,0.098000
+smart_jump_ropes,Renpho,11,0.022483,0.000000,0.139132,0,,0.050000,0.098000
+smart_jump_ropes,"MYX Fitness",12,0.016798,0.000000,0.029089,0,,0,
+smart_jump_ropes,JAXJOX,13,0.016711,0.000071,0.042927,0,,0.225000,0.098000
+smart_jump_ropes,Crossrope,14,0.012062,0.000049,0.025453,0.050000,0.098000,0.700000,0.098000
+smart_jump_ropes,Xiaomi,15,0.009049,0.000000,0.067477,0,,0.025000,0.098000
+smart_jump_ropes,Hyperice,16,0.004921,0.000000,0.008307,0,,0.025000,0.098000
+smart_jump_ropes,"Epitomie Fitness",17,0.004656,0.000000,0.010251,0,,0,
+smart_jump_ropes,"Sunny Health & Fitness",18,0.002108,0.000000,0.007319,0,,0.025000,0.098000
+smart_jump_ropes,Moov,19,0.001214,0.000000,0.002173,0,,0,
+smart_jump_ropes,"Beast Gear",20,0.001065,0.000000,0.002322,0,,0,
+smart_jump_ropes,SKLZ,21,0.000778,0.000002,0.002033,0,,0.075000,0.098000
+smart_jump_ropes,SPRI,22,0.000677,0.000000,0.002352,0,,0,
+smart_jump_ropes,GROSCHE,23,0.000663,0.000000,0.001511,0,,0,
+smart_jump_ropes,"Rogue Fitness",24,0.000408,0.000000,0.002373,0,,0.050000,0.098000
+smart_jump_ropes,"WOD Nation",25,0.000301,0.000000,0.001122,0,,0.050000,0.098000
+smart_jump_ropes,Everlast,26,0.000059,0.000000,0.000161,0,,0,
+smart_jump_ropes,"Buddy Lee Jump Rope",27,0.000058,0.000000,0.000147,0,,0,
+smart_jump_ropes,Sportneer,28,0.000058,0.000000,0.000154,0,,0,
+smart_jump_ropes,"Beast Rope",29,0.000057,0.000000,0.000149,0,,0,
+smart_jump_ropes,"Buddy Lee Jump Ropes",30,0.000043,0.000000,0.000098,0,,0,

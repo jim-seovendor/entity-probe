@@ -1,0 +1,31 @@
+category,entity,pl_rank,pl_score,pl_ci_low,pl_ci_high,freq_top1,freq_top1_ci,freq_top3,freq_top3_ci
+resistance_bands,Theraband,1,0.955216,0.000000,0.968999,0.010000,0.061981,0.010000,0.061981
+resistance_bands,CanDo,2,0.011582,0.000000,0.259511,0,,0.010000,0.061981
+resistance_bands,SPRI,3,0.008438,0.006394,0.322922,0.170000,0.061981,0.450000,0.061981
+resistance_bands,TheraBand,4,0.006465,0.004563,0.248027,0.010000,0.061981,0.010000,0.061981
+resistance_bands,"Rogue Fitness",5,0.002661,0.001850,0.111453,0.250000,0.061981,0.440000,0.061981
+resistance_bands,"Black Mountain Products",6,0.002537,0.002030,0.093719,0.100000,0.061981,0.660000,0.061981
+resistance_bands,JFIT,7,0.002394,0.000000,0.077477,0,,0,
+resistance_bands,Bodylastics,8,0.002324,0.001863,0.082315,0.030000,0.061981,0.680000,0.061981
+resistance_bands,TRX,9,0.001070,0.000168,0.114966,0,,0.020000,0.061981
+resistance_bands,Harbinger,10,0.000970,0.000459,0.052554,0,,0.030000,0.061981
+resistance_bands,GoFit,11,0.000959,0.000193,0.042526,0,,0,
+resistance_bands,"FIT Simplify",12,0.000734,0.000000,0.025774,0,,0.040000,0.061981
+resistance_bands,Gymreapers,13,0.000706,0.000000,0.021187,0,,0,
+resistance_bands,Cando,14,0.000671,0.000000,0.021576,0,,0.010000,0.061981
+resistance_bands,Tumaz,15,0.000459,0.000000,0.014667,0,,0,
+resistance_bands,ProSourceFit,16,0.000383,0.000000,0.034471,0,,0,
+resistance_bands,GymBandit,17,0.000343,0.000000,0.017977,0,,0,
+resistance_bands,"Rep Fitness",18,0.000286,0.000094,0.011249,0,,0,
+resistance_bands,LifePro,19,0.000254,0.000000,0.008542,0,,0,
+resistance_bands,SKLZ,20,0.000254,0.000000,0.008225,0,,0,
+resistance_bands,"Power Systems",21,0.000242,0.000036,0.014391,0,,0.010000,0.061981
+resistance_bands,"Fit Simplify",22,0.000204,0.000068,0.009367,0,,0.040000,0.061981
+resistance_bands,"WOD Nation",23,0.000179,0.000014,0.010527,0,,0.010000,0.061981
+resistance_bands,"Sivan Health & Fitness",24,0.000178,0.000000,0.005624,0,,0,
+resistance_bands,"Cap Barbell",25,0.000176,0.000000,0.012780,0,,0,
+resistance_bands,"Physix Gear Sport",26,0.000128,0.000000,0.004082,0,,0,
+resistance_bands,Whatafit,27,0.000111,0.000000,0.008123,0,,0,
+resistance_bands,Yes4All,28,0.000050,0.000000,0.006042,0,,0,
+resistance_bands,Letsfit,29,0.000017,0.000000,0.001354,0,,0,
+resistance_bands,"Sivan Health and Fitness",30,0.000008,0.000000,0.002427,0,,0,

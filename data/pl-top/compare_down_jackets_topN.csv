@@ -1,0 +1,10 @@
+category,entity,pl_rank,pl_score,pl_ci_low,pl_ci_high,freq_top1,freq_top1_ci,freq_top3,freq_top3_ci
+down_jackets,"The North Face",1,0.960254,0.909475,0.991768,0.966667,0.080017,1.000000,0.080017
+down_jackets,Patagonia,2,0.035774,0.007124,0.081366,0.033333,0.080017,1.000000,0.080017
+down_jackets,Arc'teryx,3,0.001957,0.000236,0.005199,0,,0.733333,0.080017
+down_jackets,"Columbia Sportswear",4,0.000921,0.000074,0.005096,0,,0.050000,0.080017
+down_jackets,"Canada Goose",5,0.000618,0.000053,0.002281,0,,0.150000,0.080017
+down_jackets,Columbia,6,0.000253,0.000024,0.000740,0,,0.066667,0.080017
+down_jackets,"Mountain Hardwear",7,0.000111,0.000003,0.000468,0,,0,
+down_jackets,Moncler,8,0.000092,0.000001,0.000559,0,,0,
+down_jackets,Marmot,9,0.000021,0.000001,0.000102,0,,0,

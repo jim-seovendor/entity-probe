@@ -1,0 +1,15 @@
+category,entity,pl_rank,pl_score,pl_ci_low,pl_ci_high,freq_top1,freq_top1_ci,freq_top3,freq_top3_ci
+swim_goggles,Speedo,1,0.954546,0.881727,0.989663,0.983333,0.080017,1.000000,0.080017
+swim_goggles,TYR,2,0.040715,0.010042,0.099216,0.016667,0.080017,1.000000,0.080017
+swim_goggles,Oakley,3,0.001155,0.000000,0.005019,0,,0,
+swim_goggles,Uvex,4,0.000860,0.000000,0.003778,0,,0,
+swim_goggles,Arena,5,0.000735,0.000075,0.004095,0,,0.300000,0.080017
+swim_goggles,"Aqua Sphere",6,0.000532,0.000052,0.002875,0,,0.450000,0.080017
+swim_goggles,UVEX,7,0.000519,0.000000,0.002501,0,,0,
+swim_goggles,FINIS,8,0.000302,0.000019,0.002149,0,,0.100000,0.080017
+swim_goggles,Finis,9,0.000286,0.000022,0.001734,0,,0.100000,0.080017
+swim_goggles,Zoggs,10,0.000171,0.000015,0.000989,0,,0.033333,0.080017
+swim_goggles,"Mad Wave",11,0.000068,0.000000,0.000325,0,,0,
+swim_goggles,Head,12,0.000067,0.000000,0.000307,0,,0,
+swim_goggles,Cressi,13,0.000030,0.000000,0.000135,0,,0,
+swim_goggles,"Michael Phelps",14,0.000014,0.000000,0.000197,0,,0,

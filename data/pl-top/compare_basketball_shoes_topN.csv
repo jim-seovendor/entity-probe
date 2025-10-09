@@ -1,0 +1,24 @@
+category,entity,pl_rank,pl_score,pl_ci_low,pl_ci_high,freq_top1,freq_top1_ci,freq_top3,freq_top3_ci
+basketball_shoes,Nike,1,0.925460,0.879804,0.953973,0.950000,0.037041,1.000000,0.037041
+basketball_shoes,Adidas,2,0.045576,0.027697,0.067944,0.050000,0.037041,1.000000,0.037041
+basketball_shoes,"Jordan Brand",3,0.011386,0.003738,0.029914,0,,0.128571,0.037041
+basketball_shoes,Jordan,4,0.010604,0.005004,0.018608,0,,0.232143,0.037041
+basketball_shoes,Converse,5,0.001908,0.000000,0.009387,0,,0.003571,0.037041
+basketball_shoes,Puma,6,0.000861,0.000321,0.001512,0,,0.007143,0.037041
+basketball_shoes,ASICS,7,0.000752,0.000267,0.001983,0,,0.007143,0.037041
+basketball_shoes,"Under Armour",8,0.000720,0.000294,0.001187,0,,0.139286,0.037041
+basketball_shoes,PUMA,9,0.000529,0.000017,0.008919,0,,0.007143,0.037041
+basketball_shoes,Mizuno,10,0.000441,0.000148,0.001147,0,,0.017857,0.037041
+basketball_shoes,"New Balance",11,0.000439,0.000180,0.000728,0,,0.085714,0.037041
+basketball_shoes,Asics,12,0.000389,0.000017,0.010578,0,,0.007143,0.037041
+basketball_shoes,Reebok,13,0.000349,0.000000,0.001666,0,,0,
+basketball_shoes,"Foot Locker",14,0.000163,0.000027,0.000394,0,,0.028571,0.037041
+basketball_shoes,"JD Sports",15,0.000153,0.000003,0.000627,0,,0,
+basketball_shoes,Size?,16,0.000090,0.000000,0.000822,0,,0,
+basketball_shoes,Decathlon,17,0.000073,0.000000,0.000103,0,,0,
+basketball_shoes,Eastbay,18,0.000032,0.000000,0.000104,0,,0,
+basketball_shoes,"Sports Direct",19,0.000023,0.000000,0.000066,0,,0,
+basketball_shoes,"Pro:Direct Sport",20,0.000023,0.000000,0.000051,0,,0,
+basketball_shoes,Zalando,21,0.000014,0.000000,0.001209,0,,0,
+basketball_shoes,Amazon,22,0.000010,0.000000,0.000046,0,,0,
+basketball_shoes,"Finish Line",23,0.000006,0.000000,0.000016,0,,0,

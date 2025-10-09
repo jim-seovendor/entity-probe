@@ -1,0 +1,22 @@
+category,entity,pl_rank,pl_score,pl_ci_low,pl_ci_high,freq_top1,freq_top1_ci,freq_top3,freq_top3_ci
+soccer_cleats,adidas,1,0.987938,0.000000,0.988844,0.003333,0.035785,0.003333,0.035785
+soccer_cleats,Nike,2,0.008418,0.007628,0.733975,0.706667,0.035785,1.000000,0.035785
+soccer_cleats,Adidas,3,0.003522,0.002755,0.318998,0.003333,0.035785,0.003333,0.035785
+soccer_cleats,PUMA,4,0.000035,0.000013,0.040786,0,,0.013333,0.035785
+soccer_cleats,Puma,5,0.000028,0.000018,0.002991,0,,0.013333,0.035785
+soccer_cleats,JAKO,6,0.000011,0.000000,0.001069,0,,0,
+soccer_cleats,Mizuno,7,0.000008,0.000004,0.000981,0,,0.156667,0.035785
+soccer_cleats,ASICS,8,0.000008,0.000002,0.001267,0,,0,
+soccer_cleats,Decathlon,9,0.000007,0.000000,0.000687,0,,0,
+soccer_cleats,Amazon.de,10,0.000007,0.000000,0.000732,0,,0,
+soccer_cleats,11teamsports,11,0.000005,0.000000,0.001073,0,,0,
+soccer_cleats,Diadora,12,0.000003,0.000000,0.000317,0,,0,
+soccer_cleats,Umbro,13,0.000003,0.000002,0.000373,0,,0.003333,0.035785
+soccer_cleats,"New Balance",14,0.000002,0.000001,0.000259,0,,0,
+soccer_cleats,Asics,15,0.000002,0.000000,0.000440,0,,0,
+soccer_cleats,"Under Armour",16,0.000001,0.000001,0.000112,0,,0,
+soccer_cleats,Amazon,17,0.000000,0.000000,0.000053,0,,0,
+soccer_cleats,Soccer.com,18,0.000000,0.000000,0.000015,0,,0,
+soccer_cleats,"Foot Locker",19,0.000000,0.000000,0.000178,0,,0,
+soccer_cleats,Zalando,20,0.000000,0.000000,0.000015,0,,0,
+soccer_cleats,"Pro:Direct Soccer",21,0.000000,0.000000,0.000009,0,,0,

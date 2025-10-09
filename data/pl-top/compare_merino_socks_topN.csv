@@ -1,0 +1,26 @@
+category,entity,pl_rank,pl_score,pl_ci_low,pl_ci_high,freq_top1,freq_top1_ci,freq_top3,freq_top3_ci
+merino_socks,SmartWool,1,0.854749,0.000000,0.927000,0.033333,0.080017,0.033333,0.080017
+merino_socks,Smartwool,2,0.133337,0.064448,0.959756,0.033333,0.080017,0.033333,0.080017
+merino_socks,"Darn Tough Vermont",3,0.004695,0.000986,0.053314,0.016667,0.080017,0.433333,0.080017
+merino_socks,"Darn Tough",4,0.003110,0.000637,0.028115,0,,0.566667,0.080017
+merino_socks,"Minus33 Merino Wool Company",5,0.001932,0.000000,0.015153,0,,0.016667,0.080017
+merino_socks,"Farm To Feet",6,0.001320,0.000000,0.009334,0,,0.016667,0.080017
+merino_socks,Icebreaker,7,0.000236,0.000035,0.002539,0,,0.716667,0.080017
+merino_socks,Bombas,8,0.000153,0.000000,0.001114,0,,0,
+merino_socks,"Farm to Feet",9,0.000127,0.000009,0.001524,0,,0.016667,0.080017
+merino_socks,Minus33,10,0.000068,0.000007,0.000733,0,,0.083333,0.080017
+merino_socks,"Fox River",11,0.000066,0.000000,0.000865,0,,0,
+merino_socks,Wigwam,12,0.000050,0.000007,0.000392,0,,0.050000,0.080017
+merino_socks,"Wigwam Mills",13,0.000043,0.000001,0.001006,0,,0.033333,0.080017
+merino_socks,Injinji,14,0.000037,0.000000,0.000409,0,,0,
+merino_socks,Point6,15,0.000014,0.000000,0.000114,0,,0,
+merino_socks,"Fox River Mills",16,0.000013,0.000001,0.000115,0,,0.016667,0.080017
+merino_socks,Woolx,17,0.000013,0.000000,0.000168,0,,0,
+merino_socks,Patagonia,18,0.000009,0.000000,0.000042,0,,0,
+merino_socks,Bridgedale,19,0.000009,0.000000,0.000058,0,,0,
+merino_socks,Wool&Prince,20,0.000006,0.000000,0.000043,0,,0,
+merino_socks,Allbirds,21,0.000006,0.000000,0.000057,0,,0,
+merino_socks,Lorpen,22,0.000004,0.000000,0.000042,0,,0,
+merino_socks,Swiftwick,23,0.000002,0.000000,0.000009,0,,0,
+merino_socks,Thorlo,24,0.000001,0.000000,0.000066,0,,0,
+merino_socks,Stance,25,0.000001,0.000000,0.000011,0,,0,

@@ -1,0 +1,15 @@
+category,entity,pl_rank,pl_score,pl_ci_low,pl_ci_high,freq_top1,freq_top1_ci,freq_top3,freq_top3_ci
+cross_training_shoes,Rakuten,1,0.423762,0.000000,0.536396,0,,0.012500,0.069296
+cross_training_shoes,Nike,2,0.252995,0.000000,0.938706,0.912500,0.069296,0.987500,0.069296
+cross_training_shoes,Amazon,3,0.132061,0.000000,0.954504,0.025000,0.069296,0.025000,0.069296
+cross_training_shoes,Zalando,4,0.122898,0.000000,0.260613,0,,0.012500,0.069296
+cross_training_shoes,PUMA,5,0.035729,0.000000,0.101284,0,,0.012500,0.069296
+cross_training_shoes,Adidas,6,0.027040,0.000000,0.106154,0.050000,0.069296,0.975000,0.069296
+cross_training_shoes,Asics,7,0.001119,0.000000,0.005574,0.012500,0.069296,0.100000,0.069296
+cross_training_shoes,Reebok,8,0.000982,0.000000,0.005573,0,,0.262500,0.069296
+cross_training_shoes,"Under Armour",9,0.000912,0.000000,0.005056,0,,0.350000,0.069296
+cross_training_shoes,Puma,10,0.000845,0.000000,0.005543,0,,0.012500,0.069296
+cross_training_shoes,Decathlon,11,0.000635,0.000000,0.020580,0,,0.025000,0.069296
+cross_training_shoes,ASICS,12,0.000432,0.000000,0.002492,0.012500,0.069296,0.100000,0.069296
+cross_training_shoes,Mizuno,13,0.000364,0.000000,0.001559,0,,0,
+cross_training_shoes,"New Balance",14,0.000224,0.000000,0.001056,0,,0.012500,0.069296

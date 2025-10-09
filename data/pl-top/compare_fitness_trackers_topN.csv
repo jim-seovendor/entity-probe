@@ -1,0 +1,10 @@
+category,entity,pl_rank,pl_score,pl_ci_low,pl_ci_high,freq_top1,freq_top1_ci,freq_top3,freq_top3_ci
+fitness_trackers,Fitbit,1,0.581354,0.479640,0.691573,0.533333,0.080017,1.000000,0.080017
+fitness_trackers,Apple,2,0.284414,0.178963,0.410957,0.466667,0.080017,1.000000,0.080017
+fitness_trackers,Garmin,3,0.132071,0.094144,0.162784,0,,1.000000,0.080017
+fitness_trackers,Samsung,4,0.001629,0.001192,0.001863,0,,0,
+fitness_trackers,Xiaomi,5,0.000387,0.000000,0.000428,0,,0,
+fitness_trackers,Whoop,6,0.000059,0.000023,0.000192,0,,0,
+fitness_trackers,Suunto,7,0.000059,0.000024,0.000191,0,,0,
+fitness_trackers,Withings,8,0.000014,0.000010,0.000018,0,,0,
+fitness_trackers,Polar,9,0.000012,0.000009,0.000015,0,,0,

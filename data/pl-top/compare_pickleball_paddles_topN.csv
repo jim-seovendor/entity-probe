@@ -1,0 +1,22 @@
+category,entity,pl_rank,pl_score,pl_ci_low,pl_ci_high,freq_top1,freq_top1_ci,freq_top3,freq_top3_ci
+pickleball_paddles,Selkirk,1,0.392713,0.226046,0.726862,0.114286,0.074081,0.185714,0.074081
+pickleball_paddles,"Selkirk Sport",2,0.238595,0.107449,0.384937,0.414286,0.074081,0.785714,0.074081
+pickleball_paddles,Paddletek,3,0.230650,0.104684,0.317009,0.385714,0.074081,1.000000,0.074081
+pickleball_paddles,ONIX,4,0.039642,0.000000,0.073173,0.085714,0.074081,0.028571,0.074081
+pickleball_paddles,Onix,5,0.030790,0.007818,0.062836,0.085714,0.074081,0.028571,0.074081
+pickleball_paddles,ProLite,6,0.023713,0.000000,0.030027,0,,0,
+pickleball_paddles,"Gearbox Paddles",7,0.009628,0.000000,0.017070,0,,0,
+pickleball_paddles,"ONIX Pickleball",8,0.009519,0.000000,0.047976,0,,0.028571,0.074081
+pickleball_paddles,"Onix Pickleball",9,0.008449,0.001216,0.023286,0,,0.028571,0.074081
+pickleball_paddles,Engage,10,0.006292,0.000690,0.023167,0,,0.028571,0.074081
+pickleball_paddles,Gamma,11,0.003426,0.000272,0.010957,0,,0,
+pickleball_paddles,"Gamma Sports",12,0.003055,0.000456,0.007918,0,,0.100000,0.074081
+pickleball_paddles,"Engage Pickleball",13,0.001091,0.000150,0.003513,0,,0.042857,0.074081
+pickleball_paddles,Franklin,14,0.000670,0.000000,0.001408,0,,0,
+pickleball_paddles,Pro-Lite,15,0.000605,0.000000,0.001032,0,,0,
+pickleball_paddles,"Gearbox Sports",16,0.000512,0.000000,0.022193,0,,0,
+pickleball_paddles,Gearbox,17,0.000250,0.000000,0.001023,0,,0,
+pickleball_paddles,HEAD,18,0.000246,0.000000,0.001574,0,,0,
+pickleball_paddles,"Franklin Sports",19,0.000119,0.000003,0.000768,0,,0.014286,0.074081
+pickleball_paddles,Wilson,20,0.000031,0.000001,0.000457,0,,0,
+pickleball_paddles,Head,21,0.000005,0.000000,0.000266,0,,0,

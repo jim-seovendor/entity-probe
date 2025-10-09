@@ -1,0 +1,15 @@
+category,entity,pl_rank,pl_score,pl_ci_low,pl_ci_high,freq_top1,freq_top1_ci,freq_top3,freq_top3_ci
+trail_backpacks,"Osprey Packs",1,0.939635,0.845238,0.970263,0.057143,0.074081,0.057143,0.074081
+trail_backpacks,Osprey,2,0.048954,0.023134,0.143528,0.857143,0.074081,0.928571,0.074081
+trail_backpacks,Deuter,3,0.003443,0.001311,0.004969,0,,0.714286,0.074081
+trail_backpacks,Gregory,4,0.002050,0.000871,0.002810,0,,0.571429,0.074081
+trail_backpacks,"The North Face",5,0.001623,0.000502,0.003627,0.085714,0.074081,0.357143,0.074081
+trail_backpacks,Arc'teryx,6,0.001063,0.000361,0.001579,0,,0.185714,0.074081
+trail_backpacks,CamelBak,7,0.000959,0.000005,0.022170,0,,0.028571,0.074081
+trail_backpacks,Patagonia,8,0.000937,0.000312,0.001763,0,,0.142857,0.074081
+trail_backpacks,Fjällräven,9,0.000319,0.000015,0.001178,0,,0.014286,0.074081
+trail_backpacks,"Granite Gear",10,0.000299,0.000000,0.000399,0,,0,
+trail_backpacks,"Mystery Ranch",11,0.000222,0.000013,0.000668,0,,0,
+trail_backpacks,Kelty,12,0.000201,0.000000,0.000242,0,,0,
+trail_backpacks,Fjallraven,13,0.000147,0.000000,0.000179,0,,0,
+trail_backpacks,"Mountain Hardwear",14,0.000147,0.000000,0.000183,0,,0,

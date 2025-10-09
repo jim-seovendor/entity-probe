@@ -1,0 +1,23 @@
+{
+  "name": "seovendor/method2-evaluator",
+  "description": "Entity-conditioned probing with resampling (PHP, SEOB-compatible)",
+  "type": "project",
+  "require": {
+    "php": "^7.4",
+    "guzzlehttp/guzzle": "^7.8",
+    "opis/json-schema": "^2.5",
+    "league/csv": "^9.14",
+    "markrogoyski/math-php": "^2.8"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "SEOVendor\\Evaluator\\": "src/"
+    }
+  },
+  "scripts": {
+    "test": "phpunit --configuration phpunit.xml"
+  }
+}

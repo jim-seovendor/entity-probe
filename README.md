@@ -1,4 +1,4 @@
-# RankLens Entity Evaluator (PHP, SEOB-compatible)
+# RankLens Entity Evaluator
 **Entity-conditioned probing with resampling** — PHP 7.4 CLI toolkit implementing standardized prompts, structured outputs, k-sampling, and Bradley–Terry aggregation.
 
 - **PHP**: PHP 7, no jQuery required. CLI only.

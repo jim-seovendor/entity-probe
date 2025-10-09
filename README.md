@@ -1,7 +1,7 @@
-# Method-2 Evaluator (PHP, SEOB-compatible)
+# RankLens Entity Evaluator (PHP, SEOB-compatible)
 **Entity-conditioned probing with resampling** — PHP 7.4 CLI toolkit implementing standardized prompts, structured outputs, k-sampling, and Bradley–Terry aggregation.
 
-- **SEOB rules**: PHP 7, no short tags, minimal sessions, clean structure, no jQuery required. CLI only.
+- **PHP**: PHP 7, no jQuery required. CLI only.
 - **Libraries**: guzzlehttp/guzzle, opis/json-schema, league/csv, math-php.
 
 ## Layout
@@ -47,3 +47,7 @@ Plackett–Luce (listwise):
 ```bash
 php bin/aggregate.php --in data/results.sample.jsonl --out data/scores_pl.csv --method pl
 ```
+
+## Licensing
+- **Code:** MIT (c) 2025 SEO Vendor LLC
+- **Data:** CC BY 4.0

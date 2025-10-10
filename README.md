@@ -198,5 +198,11 @@ php bin/aggregate.php --in data/results.sample.jsonl --out data/scores_pl.csv --
 ```
 
 ## Licensing
-- **Code:** MIT (c) 2025 SEO Vendor LLC
-- **Data:** CC BY 4.0
+
+- **Code:** Apache-2.0 (c) 2025 SEO VENDOR LLC.  
+- **Data:** CC BY 4.0  
+
+> **Patent & License Notice**  
+> Portions of this repository implement methods described in U.S. Patent Application No. 18/922,789, “LARGE LANGUAGE MODEL RANKING GENERATION AND REPORTING SYSTEM.”  
+> Use of this code does **not** grant rights under that patent or any continuations.  
+> See [LICENSE](LICENSE), [NOTICE](NOTICE), and [PATENT.md](PATENT.md) for full details.

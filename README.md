@@ -3,7 +3,7 @@
 
 - **PHP**: PHP 7, no jQuery required. CLI only.
 - **Libraries**: guzzlehttp/guzzle, opis/json-schema, league/csv, math-php.
-- **Data**: Final aggregation product (PL scores, frequency metrics, CIs) from over 15,000 GPT-5 prompts (No Cache)
+- **Data**: Final aggregation product (PL scores, frequency metrics, CIs) from 15,600 GPT-5 prompts (No Cache)
 
 ## Executive Summary
 This repository provides a transparent demonstration of the RankLens Entities evaluation process used in SEO Vendor’s patent-pending system for large-language-model ranking analysis.

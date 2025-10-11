@@ -145,7 +145,7 @@ Below we highlight eight representative categories that illustrate distinct agre
 
 ---
 
-### 8. Fragxmented market / no winner
+### 8. Fragmented market / no winner
 **Smart jump ropes.** Figure 8 shows no dominant PL leader and scattered frequency spikes. In such categories, widen coverage and favor specific situations over hard defaulting.
 
 **Figure 8. Smart jump ropes — fragmented field.**  

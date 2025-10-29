@@ -200,7 +200,7 @@ php bin/aggregate.php --in data/results.sample.jsonl --out data/scores_pl.csv --
 
 ## Licensing
 
-- **Code:** Apache-2.0 (c) 2025 SEO VENDOR LLC.  
+- **Code:** Apache-2.0 (c) 2025 SEO VENDOR LLC. https://seovendor.co
 - **Data:** CC BY 4.0  
 
 > **Patent & License Notice**  

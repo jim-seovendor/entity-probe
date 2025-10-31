@@ -207,3 +207,5 @@ php bin/aggregate.php --in data/results.sample.jsonl --out data/scores_pl.csv --
 > Portions of this repository implement methods described in U.S. Patent Application No. 18/922,789, “LARGE LANGUAGE MODEL RANKING GENERATION AND REPORTING SYSTEM.”  
 > Use of this code does **not** grant rights under that patent or any continuations.  
 > See [LICENSE](LICENSE), [NOTICE](NOTICE), and [PATENT.md](PATENT.md) for full details.
+
+[![DOI](https://zenodo.org/badge/1072718608.svg)](https://doi.org/10.5281/zenodo.17489313)
